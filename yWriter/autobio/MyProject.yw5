@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[Chroniques d’un hacker des années 90s]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[Les images sont toutes au format 800x600]]></Desc>
+		<FieldTitle1><![CDATA[Relevance]]></FieldTitle1>
+		<FieldTitle2><![CDATA[Tension]]></FieldTitle2>
+		<FieldTitle3><![CDATA[Humour]]></FieldTitle3>
+		<FieldTitle4><![CDATA[Quality]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Jacques Aïssa]]></AuthorName>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding>utf8</HtmlEncoding>
+		<HtmlUnicode>-1</HtmlUnicode>
+		<LastFullBackup>2020-03-15</LastFullBackup>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>2</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+	</PROJECT>
+
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[El Biar]]></Title>
+		<Desc><![CDATA[Square Kennedy]]></Desc>
+		<ImageFile><![CDATA[Square Kennedy.jpg]]></ImageFile>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Saint Raphael]]></AKA>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>2</ID>
+		<Title><![CDATA[Rue vielle du Temple]]></Title>
+		<Desc><![CDATA[A Paris dans le marrais, endroit où on s'est retrouvé avec des anciens de Bouattoura pour découvrir la vie Parisienne]]></Desc>
+		<SortOrder>2</SortOrder>
+	</LOCATION>
+
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Ramy]]></Title>
+		<Desc><![CDATA[Le beau frère de Nazim]]></Desc>
+		<ImageFile><![CDATA[firefox_4BO9iRIkrV.png]]></ImageFile>
+		<SortOrder>1</SortOrder>
+		<FullName><![CDATA[Ramy Houma]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Nazim]]></Title>
+		<Desc><![CDATA[Le héro de cette histoire]]></Desc>
+		<SortOrder>2</SortOrder>
+		<FullName><![CDATA[Nazim Boudeffa]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Lamine]]></Title>
+		<Desc><![CDATA[Disparu dans les années 90s]]></Desc>
+		<SortOrder>3</SortOrder>
+		<FullName><![CDATA[Lamine]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Abd el Haq]]></Title>
+		<Desc><![CDATA[Islamiste en 1992]]></Desc>
+		<SortOrder>4</SortOrder>
+		<FullName><![CDATA[Islamiste]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Naima]]></Title>
+		<Desc><![CDATA[Mariée avec un gars de thénia originaire de kabylie (Ramy)]]></Desc>
+		<SortOrder>5</SortOrder>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Soeur qui organise les mariages]]></Title>
+		<Desc><![CDATA[Elle a sa jumelle morte née]]></Desc>
+		<SortOrder>6</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Djazia]]></Title>
+		<Desc><![CDATA[Vie à El Bordj]]></Desc>
+		<SortOrder>7</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[Petit frère]]></Title>
+		<Desc><![CDATA[Footballeur]]></Desc>
+		<SortOrder>8</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[Soeur paraplégique]]></Title>
+		<SortOrder>9</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>10</ID>
+		<Title><![CDATA[Père]]></Title>
+		<Desc><![CDATA[Originaire de Oued Souf d'origine Italienne]]></Desc>
+		<ImageFile><![CDATA[firefox_dQyjL9QK8a.png]]></ImageFile>
+		<SortOrder>10</SortOrder>
+		<FullName><![CDATA[Abd El Rezzak Boudeffa]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>11</ID>
+		<Title><![CDATA[Mère]]></Title>
+		<Desc><![CDATA[Originaire de Oued Souf]]></Desc>
+		<ImageFile><![CDATA[firefox_lCC5nyueLb.png]]></ImageFile>
+		<SortOrder>11</SortOrder>
+		<FullName><![CDATA[Hafida Bounamla]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	<PROJECTNOTE>
+		<ID>1</ID>
+		<Title><![CDATA[Point de vue d'Antoine]]></Title>
+		<Desc><![CDATA[La première fois que j'ai rencontré ce personnage c'était en 2001
+
+Il m'est très difficile de parler du point de vue d'Antoine, c'est mon collèguependant ma thèse, certes il était très efficace pour écrire des articles mais j'arrivais pas à saisir tout le personnage du coup il suffisait parfois de copier coller ce qu'il écrivait ou cloner son cv pour pour que les choses prennent un sens certain, sauf que quand on parle de copier coller personne n'est d'accord.
+
+Le personnage d'Antoine on le retrouve un peu plus loin vers 2010]]></Desc>
+		<SortOrder>1</SortOrder>
+	</PROJECTNOTE>
+
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Le quartier de Nazim]]></Title>
+		<ImageFile><![CDATA[Huit ça suffit.jpg]]></ImageFile>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>366</WordCount>
+		<LetterCount>1996</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[24 heures de garde à vue prolongées]]></Title>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>5</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>292</WordCount>
+		<LetterCount>1634</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[Mon frère aimait la danse]]></Title>
+		<ImageFile><![CDATA[fame.jpg]]></ImageFile>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[J'ai acheté mon premier appartement]]></Title>
+		<ImageFile><![CDATA[Charmed.jpg]]></ImageFile>
+		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>22</WordCount>
+		<LetterCount>133</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[Le dudeisme]]></Title>
+		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
+		<BelongsToChID>4</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>31</WordCount>
+		<LetterCount>190</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>6</ID>
+		<Title><![CDATA[Retrouvailles sur Facebook]]></Title>
+		<Desc><![CDATA[Retrouvailles sur Facebook avec des amis d'enfance
+Ouverture de l'entreprise de conseils virtuel
+Plans foireux
+Actes de hacking venu de la période d'avant]]></Desc>
+		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>99</WordCount>
+		<LetterCount>551</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>7</ID>
+		<Title><![CDATA[Retrouvailles à vieille du temple]]></Title>
+		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>10</WordCount>
+		<LetterCount>69</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>8</ID>
+		<Title><![CDATA[J'ai finis ma thèse à Rennes]]></Title>
+		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>28</WordCount>
+		<LetterCount>154</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>9</ID>
+		<Title><![CDATA[Postdoc à Paris]]></Title>
+		<RTFFile><![CDATA[RTF_00009.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>15</WordCount>
+		<LetterCount>76</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>10</ID>
+		<Title><![CDATA[J'intègre GitHub]]></Title>
+		<RTFFile><![CDATA[RTF_00010.rtf]]></RTFFile>
+		<BelongsToChID>4</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>11</ID>
+		<Title><![CDATA[Disparition de mon frère et mon départ pour la France]]></Title>
+		<RTFFile><![CDATA[RTF_00011.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>7</WordCount>
+		<LetterCount>28</LetterCount>
+		<Characters>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<Desc><![CDATA[Naissance à 2002]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+			<ScID>3</ScID>
+			<ScID>7</ScID>
+			<ScID>11</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Chapter 2]]></Title>
+		<Desc><![CDATA[2002 à 2010
+]]></Desc>
+		<SortOrder>2</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>8</ScID>
+			<ScID>9</ScID>
+			<ScID>6</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[Chapter 3]]></Title>
+		<Desc><![CDATA[2010 à 2015]]></Desc>
+		<SortOrder>3</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>4</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>4</ID>
+		<Title><![CDATA[Chapter 4]]></Title>
+		<Desc><![CDATA[2015 à 2019]]></Desc>
+		<SortOrder>4</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>5</ScID>
+			<ScID>10</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>5</ID>
+		<Title><![CDATA[Chapter 5]]></Title>
+		<Desc><![CDATA[L'emprisonnement de Nazim]]></Desc>
+		<SortOrder>5</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-10-20</Date>
+		<Count>863</Count>
+		<TotalCount>863</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-11-17</Date>
+		<Count>863</Count>
+		<TotalCount>863</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-02</Date>
+		<Count>863</Count>
+		<TotalCount>863</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-05</Date>
+		<Count>870</Count>
+		<TotalCount>870</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2020-03-15</Date>
+		<Count>870</Count>
+		<TotalCount>870</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER5>

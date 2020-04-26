@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[Candide]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[Relevance]]></FieldTitle1>
+		<FieldTitle2><![CDATA[Tension]]></FieldTitle2>
+		<FieldTitle3><![CDATA[Humour]]></FieldTitle3>
+		<FieldTitle4><![CDATA[Quality]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Voltaire]]></AuthorName>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding>utf8</HtmlEncoding>
+		<HtmlUnicode>-1</HtmlUnicode>
+		<LastFullBackup>2019-12-06</LastFullBackup>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	<PROJECTVAR>
+		<ID>5</ID>
+		<Title><![CDATA[MobiEpubEnabled]]></Title>
+		<Desc><![CDATA[0]]></Desc>
+	</PROJECTVAR>
+
+	<PROJECTVAR>
+		<ID>6</ID>
+		<Title><![CDATA[MobiExport]]></Title>
+		<Desc><![CDATA[1]]></Desc>
+	</PROJECTVAR>
+
+	<PROJECTVAR>
+		<ID>7</ID>
+		<Title><![CDATA[EpubExport]]></Title>
+		<Desc><![CDATA[1]]></Desc>
+	</PROJECTVAR>
+
+	<PROJECTVAR>
+		<ID>8</ID>
+		<Title><![CDATA[ExporterName]]></Title>
+	</PROJECTVAR>
+
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>794</WordCount>
+		<LetterCount>4728</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>782</WordCount>
+		<LetterCount>4313</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>767</WordCount>
+		<LetterCount>4328</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
+		<BelongsToChID>4</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1077</WordCount>
+		<LetterCount>6006</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
+		<BelongsToChID>5</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>942</WordCount>
+		<LetterCount>5324</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>6</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>399</WordCount>
+		<LetterCount>2279</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>7</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
+		<BelongsToChID>7</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>704</WordCount>
+		<LetterCount>3780</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>8</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
+		<BelongsToChID>8</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1080</WordCount>
+		<LetterCount>5877</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>9</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00009.rtf]]></RTFFile>
+		<BelongsToChID>9</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>534</WordCount>
+		<LetterCount>2937</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>10</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00010.rtf]]></RTFFile>
+		<BelongsToChID>10</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>656</WordCount>
+		<LetterCount>3694</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>11</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00011.rtf]]></RTFFile>
+		<BelongsToChID>11</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1159</WordCount>
+		<LetterCount>6575</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>12</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00012.rtf]]></RTFFile>
+		<BelongsToChID>12</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1302</WordCount>
+		<LetterCount>7031</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>13</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00013.rtf]]></RTFFile>
+		<BelongsToChID>13</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>776</WordCount>
+		<LetterCount>4409</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>14</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00014.rtf]]></RTFFile>
+		<BelongsToChID>14</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1165</WordCount>
+		<LetterCount>6533</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>15</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00015.rtf]]></RTFFile>
+		<BelongsToChID>15</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>722</WordCount>
+		<LetterCount>3911</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>16</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00016.rtf]]></RTFFile>
+		<BelongsToChID>16</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1265</WordCount>
+		<LetterCount>7173</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>17</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00017.rtf]]></RTFFile>
+		<BelongsToChID>17</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1210</WordCount>
+		<LetterCount>7058</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>18</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00018.rtf]]></RTFFile>
+		<BelongsToChID>18</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1915</WordCount>
+		<LetterCount>10634</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>19</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00019.rtf]]></RTFFile>
+		<BelongsToChID>19</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1764</WordCount>
+		<LetterCount>9802</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>20</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00020.rtf]]></RTFFile>
+		<BelongsToChID>20</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>840</WordCount>
+		<LetterCount>4760</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>21</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00021.rtf]]></RTFFile>
+		<BelongsToChID>21</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>567</WordCount>
+		<LetterCount>3174</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>22</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00022.rtf]]></RTFFile>
+		<BelongsToChID>22</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>3515</WordCount>
+		<LetterCount>19687</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>23</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00023.rtf]]></RTFFile>
+		<BelongsToChID>23</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>466</WordCount>
+		<LetterCount>2482</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>24</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00024.rtf]]></RTFFile>
+		<BelongsToChID>24</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1629</WordCount>
+		<LetterCount>9077</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>25</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00025.rtf]]></RTFFile>
+		<BelongsToChID>25</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1867</WordCount>
+		<LetterCount>10283</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>26</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00026.rtf]]></RTFFile>
+		<BelongsToChID>26</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1163</WordCount>
+		<LetterCount>6126</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>27</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00027.rtf]]></RTFFile>
+		<BelongsToChID>27</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1301</WordCount>
+		<LetterCount>7225</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>28</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00028.rtf]]></RTFFile>
+		<BelongsToChID>28</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>935</WordCount>
+		<LetterCount>5082</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>29</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00029.rtf]]></RTFFile>
+		<BelongsToChID>29</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>367</WordCount>
+		<LetterCount>2083</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>30</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00030.rtf]]></RTFFile>
+		<BelongsToChID>30</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1590</WordCount>
+		<LetterCount>9241</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<Desc><![CDATA[comment candide fut élevé dans un beau chateau, et comment il fut chassé d’icelui.]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Chapter 2]]></Title>
+		<Desc><![CDATA[ce que devint candide parmi les bulgares.]]></Desc>
+		<SortOrder>2</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[Chapter 3]]></Title>
+		<Desc><![CDATA[comment candide se sauva d’entre les bulgares, et ce qu’il devint.]]></Desc>
+		<SortOrder>3</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>3</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>4</ID>
+		<Title><![CDATA[Chapter 4]]></Title>
+		<Desc><![CDATA[comment candide rencontra son ancien maître de philosophie, le docteur pangloss, et ce qui en advint.]]></Desc>
+		<SortOrder>4</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>4</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>5</ID>
+		<Title><![CDATA[Chapter 5]]></Title>
+		<Desc><![CDATA[tempête, naufrage, tremblement de terre, et ce qui advint du docteur pangloss, de candide, et de l’anabaptiste jacques.]]></Desc>
+		<SortOrder>5</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>5</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>6</ID>
+		<Title><![CDATA[Chapter 6]]></Title>
+		<Desc><![CDATA[comment on fit un bel auto-da-fé pour empêcher les tremblements de terre, et comment candide fut fessé.]]></Desc>
+		<SortOrder>6</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>6</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>7</ID>
+		<Title><![CDATA[Chapter 7]]></Title>
+		<Desc><![CDATA[comment une vieille prit soin de candide, et comment il retrouva ce qu’il aimait.]]></Desc>
+		<SortOrder>7</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>7</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>8</ID>
+		<Title><![CDATA[Chapter 8]]></Title>
+		<Desc><![CDATA[histoire de cunégonde.]]></Desc>
+		<SortOrder>8</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>8</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>9</ID>
+		<Title><![CDATA[Chapter 9]]></Title>
+		<Desc><![CDATA[ce qui advint de cunégonde, de candide, du grand inquisiteur, et d’un juif.]]></Desc>
+		<SortOrder>9</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>9</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>10</ID>
+		<Title><![CDATA[Chapter 10]]></Title>
+		<Desc><![CDATA[dans quelle détresse candide, cunégonde, et la vieille, arrivent à cadix, et leur embarquement.]]></Desc>
+		<SortOrder>10</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>10</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>11</ID>
+		<Title><![CDATA[Chapter 11]]></Title>
+		<Desc><![CDATA[histoire de la vieille.]]></Desc>
+		<SortOrder>11</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>11</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>12</ID>
+		<Title><![CDATA[Chapter 12]]></Title>
+		<Desc><![CDATA[suite des malheurs de la vieille.]]></Desc>
+		<SortOrder>12</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>12</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>13</ID>
+		<Title><![CDATA[Chapter 13]]></Title>
+		<Desc><![CDATA[comment candide fut obligé de se séparer de la belle cunégonde et de la vieille.]]></Desc>
+		<SortOrder>13</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>13</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>14</ID>
+		<Title><![CDATA[Chapter 14]]></Title>
+		<Desc><![CDATA[comment candide et cacambo furent reçus chez les jésuites du paraguai.]]></Desc>
+		<SortOrder>14</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>14</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>15</ID>
+		<Title><![CDATA[Chapter 15]]></Title>
+		<Desc><![CDATA[comment candide tua le frère de sa chère cunégonde.]]></Desc>
+		<SortOrder>15</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>15</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>16</ID>
+		<Title><![CDATA[Chapter 16]]></Title>
+		<Desc><![CDATA[ce qui advint aux deux voyageurs avec deux filles, deux singes, et les sauvages nommées oreillons.]]></Desc>
+		<SortOrder>16</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>16</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>17</ID>
+		<Title><![CDATA[Chapter 17]]></Title>
+		<Desc><![CDATA[arrivée de candide et de son valet au pays d’eldorado[34], et ce qu’ils y virent.]]></Desc>
+		<SortOrder>17</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>17</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>18</ID>
+		<Title><![CDATA[Chapter 18]]></Title>
+		<Desc><![CDATA[ce qu’ils virent dans le pays d’eldorado[38].]]></Desc>
+		<SortOrder>18</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>18</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>19</ID>
+		<Title><![CDATA[Chapter 19]]></Title>
+		<Desc><![CDATA[Ce qui leur arriva a Surinam, et comment Candide fit connaissance avec Martin.]]></Desc>
+		<SortOrder>19</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>19</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>20</ID>
+		<Title><![CDATA[Chapter 20]]></Title>
+		<Desc><![CDATA[ce qui arriva sur mer à candide et à martin.]]></Desc>
+		<SortOrder>20</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>20</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>21</ID>
+		<Title><![CDATA[Chapter 21]]></Title>
+		<Desc><![CDATA[candide et martin approchent des côtes de france, et raisonnent.]]></Desc>
+		<SortOrder>21</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>21</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>22</ID>
+		<Title><![CDATA[Chapter 22]]></Title>
+		<Desc><![CDATA[ce qui arriva en france à candide et à martin.]]></Desc>
+		<SortOrder>22</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>22</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>23</ID>
+		<Title><![CDATA[Chapter 23]]></Title>
+		<Desc><![CDATA[candide et martin vont sur les côtes d’angleterre ; ce qu’ils y voient.]]></Desc>
+		<SortOrder>23</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>23</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>24</ID>
+		<Title><![CDATA[Chapter 24]]></Title>
+		<Desc><![CDATA[de paquette, et de frère giroflée.]]></Desc>
+		<SortOrder>24</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>24</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>25</ID>
+		<Title><![CDATA[Chapter 25]]></Title>
+		<Desc><![CDATA[visite chez le seigneur pococurante, noble vénitien.]]></Desc>
+		<SortOrder>25</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>25</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>26</ID>
+		<Title><![CDATA[Chapter 26]]></Title>
+		<Desc><![CDATA[d’un souper que candide et martin firent avec six étrangers, et qui ils étaient.]]></Desc>
+		<SortOrder>26</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>26</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>27</ID>
+		<Title><![CDATA[Chapter 27]]></Title>
+		<Desc><![CDATA[voyage de candide à constantinople.]]></Desc>
+		<SortOrder>27</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>27</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>28</ID>
+		<Title><![CDATA[Chapter 28]]></Title>
+		<Desc><![CDATA[ce qui arriva à candide, à cunégonde, à pangloss, à martin, etc.]]></Desc>
+		<SortOrder>28</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>28</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>29</ID>
+		<Title><![CDATA[Chapter 29]]></Title>
+		<Desc><![CDATA[comment candide retrouva cunégonde et la vieille.]]></Desc>
+		<SortOrder>29</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>29</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>30</ID>
+		<Title><![CDATA[Chapter 30]]></Title>
+		<Desc><![CDATA[conclusion.]]></Desc>
+		<SortOrder>30</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>30</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-12-05</Date>
+		<Count>1576</Count>
+		<TotalCount>1576</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-06</Date>
+		<Count>33253</Count>
+		<TotalCount>33253</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER5>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[Voyage au Centre de la Terre]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[Relevance]]></FieldTitle1>
+		<FieldTitle2><![CDATA[Tension]]></FieldTitle2>
+		<FieldTitle3><![CDATA[Humour]]></FieldTitle3>
+		<FieldTitle4><![CDATA[Quality]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Jules Verne]]></AuthorName>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding>utf8</HtmlEncoding>
+		<HtmlUnicode>-1</HtmlUnicode>
+		<LastFullBackup>2019-12-06</LastFullBackup>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<ImageFile><![CDATA[400px-Voyageaucentrede00vernuoft_raw_0011_1.jpg]]></ImageFile>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1322</WordCount>
+		<LetterCount>7881</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-12-06</Date>
+		<Count>1322</Count>
+		<TotalCount>1322</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER5>

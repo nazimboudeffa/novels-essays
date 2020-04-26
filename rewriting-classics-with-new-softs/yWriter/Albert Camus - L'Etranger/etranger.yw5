@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[L'Etranger]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[Relevance]]></FieldTitle1>
+		<FieldTitle2><![CDATA[Tension]]></FieldTitle2>
+		<FieldTitle3><![CDATA[Humour]]></FieldTitle3>
+		<FieldTitle4><![CDATA[Quality]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Albert Camus]]></AuthorName>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding>utf8</HtmlEncoding>
+		<HtmlUnicode>-1</HtmlUnicode>
+		<LastFullBackup>2019-12-10</LastFullBackup>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>3</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+	</PROJECT>
+
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[Marengo]]></Title>
+		<SortOrder>1</SortOrder>
+	</LOCATION>
+
+	<LOCATION>
+		<ID>2</ID>
+		<Title><![CDATA[Alger]]></Title>
+		<SortOrder>2</SortOrder>
+	</LOCATION>
+
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Meursault]]></Title>
+		<SortOrder>1</SortOrder>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Mère de Meursault]]></Title>
+		<SortOrder>2</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Céleste]]></Title>
+		<SortOrder>3</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Le directeur]]></Title>
+		<SortOrder>4</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[le concierge]]></Title>
+		<SortOrder>5</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Pérez]]></Title>
+		<SortOrder>6</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[l'infirmière déléguée]]></Title>
+		<SortOrder>7</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[L'employé  des  pompes funèbres]]></Title>
+		<SortOrder>8</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[une des femmes]]></Title>
+		<SortOrder>9</SortOrder>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>10</ID>
+		<Title><![CDATA[le curé]]></Title>
+		<SortOrder>10</SortOrder>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>4490</WordCount>
+		<LetterCount>26125</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1710</WordCount>
+		<LetterCount>10024</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>2741</WordCount>
+		<LetterCount>15097</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Part 1 - Chapter 1]]></Title>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Part 1 - Chapter 2]]></Title>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[Part 1 - Chapter 3]]></Title>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>3</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-12-06</Date>
+		<Count>4490</Count>
+		<TotalCount>4490</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-09</Date>
+		<Count>4490</Count>
+		<TotalCount>4490</TotalCount>
+	</WC>
+
+	<WC>
+		<Date>2019-12-10</Date>
+		<Count>8941</Count>
+		<TotalCount>8941</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER5>

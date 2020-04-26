@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[]]></AuthorName>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LastFullBackup>2019-12-05</LastFullBackup>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[L’absurde et le suicide]]></Title>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>2013</WordCount>
+		<LetterCount>11811</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Les murs absurdes]]></Title>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>5085</WordCount>
+		<LetterCount>30524</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[Le suicide philosophique]]></Title>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>6304</WordCount>
+		<LetterCount>38098</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<Desc><![CDATA[Un raisonnement absurde]]></Desc>
+		<SortOrder>1</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+			<ScID>2</ScID>
+			<ScID>3</ScID>
+		</Scenes>
+	</CHAPTER>
+
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Chapter 2]]></Title>
+		<Desc><![CDATA[L’Homme absurde]]></Desc>
+		<SortOrder>2</SortOrder>
+		<Type>0</Type>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2019-12-05</Date>
+		<Count>13402</Count>
+		<TotalCount>13402</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER5>
