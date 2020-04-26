@@ -7,3 +7,7 @@ J'ai pas trop d'idées de comment le développer mais ça avance
 Couverture générale
 
 ![etranger2](etranger2.jpg)
+
+# Idées
+
+Pour la suite de l'étranger il y a plusieures possiblités selon vos connaissances en psychologie ou en philo, il a rêvé, il est schyzos, ..., moi je préfère l'approche science fiction, amusez vous bien
