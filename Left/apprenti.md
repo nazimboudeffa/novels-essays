@@ -7,3 +7,5 @@ Il allait très souvent au parc zoologique juste après son inauguration pour s'
 Aujourd'hui il est devenu inspecteur et cherche son apprenti à son tour
 
 C'est la traditionelle école de police Algérienne ou tout le monde se bat pour devenir un apprenti
+
+A la suite de l'attaque mondiale qui a eu lieu et que l'on voit dans PIXEL LE FILM il doit s'unir avec le champion de France pour se battre contre les envahisseurs
