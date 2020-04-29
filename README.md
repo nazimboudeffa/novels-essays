@@ -1,4 +1,4 @@
-Pour écrire cette nouvelle j'utilise yWriter http://www.spacejock.com/yWriter6_Download.html
+Pour écrire cette nouvelle j'utilise aussi yWriter http://www.spacejock.com/yWriter6_Download.html à des fins d'étude pour développer un logiciel plus stylé posts Facebook, c'est à dire des bouts de paragraphes postés au fure et à mesure
 
 Le dossier Left en fait contient just un .txt mais il est destiné à être écrit par novelator un fork du logiciel LEft que j'aime bien
 https://github.com/nazimboudeffa/novelator
