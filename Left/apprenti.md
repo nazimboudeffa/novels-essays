@@ -30,6 +30,6 @@ C'est un amateur de vielles voitures comme tous les inspecteurs de police de l'�
 
 Né dans les années 60s (à voir par rapport à la mission contre les Envahisseurs) il est vite attiré par les jeux d'arcades importés du Japon et se passionne pour les enquêtes policières qu'il suit à la TV donc Starsky et Hutch et il aime beaucoup le rôle de Huggy les bons tuyaux puisqu'il a entendu parlé que ce sont des pratiques de la police Algérienne
 
-*Y a une autre version qui consiste à parler du fait que les jeux d'arcade sont arrivés au parc d'attraction d'Alger dans les années 80s*
+*Y a une autre version qui consiste à parler du fait que les jeux d'arcade sont arrivés au parc d'attraction d'Alger dans les années 80s avec la construction de Houbel et Riadh el Feth du coup ça rajeunit notre protagoniste de 2 décenies et ça en fait un enfants qui a gradit dans les années 80s*
 
 Grand fan de l'inspecteur Tahar et son apprenti, il veut réussir comme lui et ne tarde pas à apprendre les techniques d'enquêtes de cette école traditionelle
