@@ -20,4 +20,4 @@ Quand est-ce que vous allez nous ramener des gorilles ici ?
 
 Le gardien lui répondit :
 
-Ils en ont parlé hier à la réunion mais on a pas encore de date
+Ils en ont parlé hier à la direction mais on a pas encore de date
