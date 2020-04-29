@@ -23,3 +23,11 @@ Le gardien lui répondit :
 Ils en ont encore parlé hier à la direction mais on a pas encore de date
 
 Ils se contentait alors de regarder les documentaires importés d'Allemagne sur la TV Algérienne où certaines scènes étaient censurés grossièrement
+
+# La Vie de l'Inspecteur Aissa
+
+C'est un amateur de vielles voitures comme tous les inspecteurs de police de l'école de police Algérienne, il a une vielle coccinelle blanche décapotable comme choupette car c'est aussi un amateur de films anciens
+
+Né dans les années 60s (à voir par rapport à la mission contre les Envahisseurs) il est vite attiré par les jeux d'arcades et se passionne pour les enquêtes policières qu'il suit à la TV donc Starsky et Hutch et il aime beaucoup le rôle de Huggy les bons tuyaux puisqu'il a entendu parlé que ce sont des pratiques de la police Algérienne
+
+Grand fan de l'inspecteur Tahar et son apprenti, il veut réussir comme lui et ne tarde pas à apprendre les techniques d'enquêtes de cette école traditionelle
