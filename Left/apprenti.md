@@ -13,3 +13,11 @@ A la suite de l'attaque mondiale qui a eu lieu et que l'on voit dans PIXEL LE FI
 Il aimait bien les gorilles et allait souvent les voir juste à côté mais ils ont jamais réussi à en ramener un en captivité puisque les lions mourraient déjà de faim dans le zoo d'Alger du coup il se contentait des seules animeaux qui restaient, y avait pas grand chose à part quelques couples qui se plotaient en cachette
 
 A chaque fois les gardiens du zoo lui disaient qu'ils allaient bientôt ramener des gorilles en captivité mais qu'ils arrivaient déjà pas à s'occuper des lions
+
+Il s'adressa au gardien du zoo et lui demanda :
+
+Quand est-ce que vous allez nous ramener des gorilles ici ?
+
+Le gardien lui répondit :
+
+Ils en ont parlé hier à la réunion mais on a pas encore de date
