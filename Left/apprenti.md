@@ -33,3 +33,9 @@ Né dans les années 60s (à voir par rapport à la mission contre les Envahisse
 *Y a une autre version qui consiste à parler du fait que les jeux d'arcade sont arrivés au parc d'attraction d'Alger dans les années 80s avec la construction de Houbel et Riadh el Feth du coup ça rajeunit notre protagoniste de 2 décenies et ça en fait un enfants qui a gradit dans les années 80s*
 
 Grand fan de l'inspecteur Tahar et son apprenti, il veut réussir comme lui et ne tarde pas à apprendre les techniques d'enquêtes de cette école traditionelle
+
+# Affectation
+
+L'inspecteur Aissa travaille dans la Brigade de la répression de la Cybercriminalité, il passe ses journées sur les réseaux sociaux depuis son ouverture à la recherche des cybercriminels
+
+*Je sais pas actuellement si c'est un homme ou une femme son apprenti*
