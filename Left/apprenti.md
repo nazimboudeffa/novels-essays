@@ -39,3 +39,9 @@ Grand fan de l'inspecteur Tahar et son apprenti, il veut réussir comme lui et n
 L'inspecteur Aissa travaille dans la Brigade de la répression de la Cybercriminalité, il passe ses journées sur les réseaux sociaux depuis son ouverture à la recherche des cybercriminels
 
 *Je sais pas actuellement si c'est un homme ou une femme son apprenti*
+
+# Championat de jeux d'Arcades
+
+C'est lui le champion d'Algérie de space invaders depuis sont jeune age où il frequentait la salle d'arcades du parc d'attraction pas loins des vaissaux spaciaux
+
+*d'ailleurs on va revenir sur ce sujet des vaisseau spaciaux et son attrait pour le jeu*
