@@ -16,6 +16,6 @@ Pour la suite de l'étranger il y a plusieures possiblités selon vos connaissan
 
 - Mon autobio
 - La suite de l'étranger version SF
-- Une histoire fantastique
-- Un roman policier
-- L'histoire d'un psychopathe
+- Une histoire fantastique de deux elfs qui ont gradit dans un quartier d'Alger
+- Un roman policier d'un apprenti de l'Inspecteur Tahar
+- L'histoire d'un psychopathe qui s'est vengé pour toute la génération X
