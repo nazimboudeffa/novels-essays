@@ -19,3 +19,4 @@ Pour la suite de l'étranger il y a plusieures possiblités selon vos connaissan
 - Une histoire fantastique de deux elfs qui ont gradit dans un quartier d'Alger
 - Un roman policier d'un apprenti de l'Inspecteur Tahar
 - L'histoire d'un psychopathe qui s'est vengé pour toute la génération X
+- ... Quelques essai de travail sur des oeuvres classiques remaniées avec des logiciels modernes
