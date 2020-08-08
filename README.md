@@ -16,7 +16,7 @@ J'ai pas trop d'idées de comment le développer mais ça avance
 
 Couverture générale
 
-![etranger2](etranger2.jpg)
+![etranger2](images/etranger2.jpg)
 
 # Idées
 
