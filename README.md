@@ -1,5 +1,5 @@
 
-# Ce vous trouvez dans ce repo
+# Ce que vous trouverez dans ce repo
 
 - Mon autobio
 - La suite de l'étranger version SF
@@ -21,3 +21,8 @@ Couverture générale
 # Idées
 
 Pour la suite de l'étranger il y a plusieures possiblités selon vos connaissances en psychologie ou en philo, il a rêvé, il est schyzos, ..., moi je préfère l'approche science fiction, amusez vous bien
+
+# Plus de développement
+
+Un doc sur des analyses psychanalytiques de personnages
+https://docs.google.com/document/d/1d_C6fPGdM63loM71QvMGoNwY9bDSdDieb9hI2xEFRlg/edit?usp=sharing
