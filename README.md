@@ -24,5 +24,6 @@ Pour la suite de l'étranger il y a plusieures possiblités selon vos connaissan
 
 # Plus de développement
 
-Un doc sur des analyses psychanalytiques de personnages
+Un doc sur des analyses psychanalytiques de personnages, ainsi que mes études sur les Films et Séries
+
 https://docs.google.com/document/d/1txxDO_PX7-qHtJ5xLVnYBoMbjFT7q_TuerM5ZS49jyY/edit?usp=sharing
