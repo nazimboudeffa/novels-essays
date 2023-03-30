@@ -8,12 +8,6 @@
 - L'histoire d'un psychopathe qui s'est vengé pour toute la génération X
 - ... Quelques essai de travail sur des oeuvres classiques remaniées avec des logiciels modernes
 
-Pour écrire mes nouvelles j'utilise aussi yWriter http://www.spacejock.com/yWriter6_Download.html à des fins d'étude pour développer un logiciel plus stylé posts Facebook, c'est à dire des bouts de paragraphes postés au fure et à mesure
-
-Ces nouvelles sont destinée à être écrit par novelator un fork du logiciel [Left](https://github.com/hundredrabbits/Left) que j'aime bien
-https://github.com/nazimboudeffa/novelator
-J'ai pas trop d'idées de comment le développer mais ça avance
-
 Couverture générale
 
 ![etranger2](images/etranger2.jpg)
